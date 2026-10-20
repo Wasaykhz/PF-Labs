@@ -35,7 +35,7 @@ int main()
         }
         
         printf("Sentence %d: \"%s\"\n", i + 1, sentences[i]);
-        printf("  Vowels: %d\n", vowels);
+        printf("Vowels: %d\n", vowels);
     }
 
     return 0;
